@@ -37,17 +37,16 @@ body {
 }
 .quickView{
   background-color: white;
-  border: 0.5px solid #737373;
+  border: 0.5px solid grey;
   font-size:1rem;
+  text-transform: uppercase;
+  width:80%;
+  align-self: center;
+  color:grey
 }
 .modal-body .row {
   /* justify-content:center; */
   width:50rem;
-}
-.quickView {
-  text-transform: uppercase;
-  width:80%;
-  align-self: center;
 }
 
 a {
